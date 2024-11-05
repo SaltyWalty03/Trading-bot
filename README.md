@@ -20,7 +20,7 @@ To run these notebooks, you will need:
 
 Python 3.x
 Jupyter Notebook
-Required libraries (see the requirements.txt file):
+Required libraries:
 pandas
 numpy
 matplotlib
@@ -31,7 +31,6 @@ Usage
 Setup: Make sure to set up API credentials for Binance in a .env file or directly in the code (not recommended for security reasons).
 Run the Bot: Start by running the cells in Bot.ipynb to activate the bot and begin live trading (or simulate using paper trading).
 Analysis: Use Algo Trading.ipynb to analyze the strategy's performance and tweak parameters based on backtest results.
-Note: Ensure you have a basic understanding of algorithmic trading and manage risks carefully, especially if live trading with real funds.
 
 Project Background
 This bot was developed as part of a Python-based exploration into algorithmic trading strategies. The RSI strategy used here was selected for its simplicity and relevance to trend and momentum analysis, particularly in cryptocurrency markets.
