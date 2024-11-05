@@ -1,4 +1,5 @@
 Algorithmic Trading Bot
+
 This repository contains Jupyter Notebooks and Python code for an algorithmic trading bot project. The bot uses a Relative Strength Index (RSI) strategy to simulate Bitcoin trading on the Binance exchange. This project was developed for research and educational purposes and aims to provide insights into algorithmic trading and quantitative analysis.
 
 Files
